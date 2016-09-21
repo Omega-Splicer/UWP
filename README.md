@@ -23,7 +23,7 @@ Ceci est le dépot de l'application Universal Windows Platform Omega-Splicer. C'
 
 ## Screenshots
 
-![Screenshot](./Screenshots/WP-OmegaSplicer-FlyPage-Gyroscope.PNG)
+![Screenshot](./Screenshots/UWP-OmegaSplicer-Home.PNG)
 
 ## Credits
 

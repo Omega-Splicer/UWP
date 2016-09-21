@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3ffd716d-1361-4a4d-822c-18c80f586a0f</PackageIdentityName>
     <PackageIdentityPublisher>CN=dimitricisneros</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-09-13T16:41:19.801</Modified>
+      <Modified>2016-09-21T16:03:27.679</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\bin\x86\Debug\OmegaSplicer.exe">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\bin\x86\Debug\OmegaSplicer.exe">
       <PackagePath>entrypoint\OmegaSplicer.exe</PackagePath>
-      <Modified>2016-09-13T16:41:17.295</Modified>
+      <Modified>2016-09-21T16:03:21.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dimitricisneros\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -492,312 +492,312 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T21:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\battery_25.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\battery_25.png">
       <PackagePath>Assets\battery_25.png</PackagePath>
       <Modified>2016-08-30T02:25:59.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\battery_50.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\battery_50.png">
       <PackagePath>Assets\battery_50.png</PackagePath>
       <Modified>2016-08-30T02:25:59.186</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\battery_75.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\battery_75.png">
       <PackagePath>Assets\battery_75.png</PackagePath>
       <Modified>2016-08-30T02:25:59.188</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\battery_full.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\battery_full.png">
       <PackagePath>Assets\battery_full.png</PackagePath>
       <Modified>2016-08-30T02:25:59.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Home_white.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Home_white.png">
       <PackagePath>Assets\Home_white.png</PackagePath>
       <Modified>2016-08-30T02:27:28.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <Modified>2016-08-18T18:26:33.517</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-100.png">
       <PackagePath>Assets\NewStoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-125.png">
       <PackagePath>Assets\NewStoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-150.png">
       <PackagePath>Assets\NewStoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-200.png">
       <PackagePath>Assets\NewStoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\NewStoreLogo.scale-400.png">
       <PackagePath>Assets\NewStoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSBackground%402x.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSBackground%402x.png">
       <PackagePath>Assets\OSBackground%402x.png</PackagePath>
       <Modified>2016-08-16T12:48:26.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSBackground%403x.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSBackground%403x.png">
       <PackagePath>Assets\OSBackground%403x.png</PackagePath>
       <Modified>2016-08-16T12:48:35.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSBackground.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSBackground.png">
       <PackagePath>Assets\OSBackground.png</PackagePath>
       <Modified>2016-08-16T12:48:16.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSBackgroundCredits.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSBackgroundCredits.png">
       <PackagePath>Assets\OSBackgroundCredits.png</PackagePath>
       <Modified>2016-08-16T12:49:20.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSFly.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSFly.png">
       <PackagePath>Assets\OSFly.png</PackagePath>
       <Modified>2016-08-16T12:48:46.909</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSinformations.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSinformations.png">
       <PackagePath>Assets\OSinformations.png</PackagePath>
       <Modified>2016-08-16T12:48:54.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSNews.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSNews.png">
       <PackagePath>Assets\OSNews.png</PackagePath>
       <Modified>2016-08-16T12:49:05.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSSettings.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSSettings.png">
       <PackagePath>Assets\OSSettings.png</PackagePath>
       <Modified>2016-08-16T12:49:12.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\rss.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\rss.png">
       <PackagePath>Assets\rss.png</PackagePath>
       <Modified>2016-08-30T02:28:15.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:34:37.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:34:37.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:34:37.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:34:37.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:34:37.654</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.988</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-100.png">
       <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-125.png">
       <PackagePath>Assets\Square310x310Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-150.png">
       <PackagePath>Assets\Square310x310Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-200.png">
       <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square310x310Logo.scale-400.png">
       <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.324</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.310</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.438</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.774</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-125.png">
       <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.990</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-150.png">
       <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.983</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-200.png">
       <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.984</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:34.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-08-18T18:31:35.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T15:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2016-08-18T16:38:52.230</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\flying_high.jpg">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\flying_high.jpg">
       <PackagePath>Assets\flying_high.jpg</PackagePath>
       <Modified>2016-08-30T02:28:31.658</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Assets\OSBackgroundLand.jpg">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Assets\OSBackgroundLand.jpg">
       <PackagePath>Assets\OSBackgroundLand.jpg</PackagePath>
       <Modified>2016-08-16T13:43:15.403</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-08-15T13:20:18.465</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\bin\x86\Debug\OmegaSplicer.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\bin\x86\Debug\OmegaSplicer.xr.xml">
       <PackagePath>OmegaSplicer.xr.xml</PackagePath>
       <Modified>2016-09-13T16:41:17.016</Modified>
     </AppxPackagedFile>
@@ -805,13 +805,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-08-15T12:50:19.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-09-13T16:41:19.531</Modified>
+      <Modified>2016-09-21T16:03:26.350</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\bin\x86\Debug\Core\OmegaSplicer.exe">
+    <AppxPackagedFile Include="C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\bin\x86\Debug\Core\OmegaSplicer.exe">
       <PackagePath>OmegaSplicer.exe</PackagePath>
-      <Modified>2016-09-13T16:41:19.798</Modified>
+      <Modified>2016-09-21T16:03:27.663</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

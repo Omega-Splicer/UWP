@@ -1,1 +1,1 @@
-C:\Users\dimitricisneros\Desktop\UW\OmegaSplicer\OmegaSplicer\OmegaSplicer.csproj;x86
+C:\Users\dimitricisneros\Desktop\UWP\OmegaSplicer\OmegaSplicer\OmegaSplicer.csproj;x86

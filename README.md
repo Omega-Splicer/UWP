@@ -19,7 +19,7 @@
 
 ## Overview
 
-Ceci est le dépot de l'application Universal windows Platform Omega-Splicer. C'est un projet Epitech de 5ème année, l'EIP (Epitech Innovative Project).
+Ceci est le dépot de l'application Universal Windows Platform Omega-Splicer. C'est un projet Epitech de 5ème année, l'EIP (Epitech Innovative Project).
 
 ## Screenshots
 
